@@ -247,6 +247,21 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：中国融资标的公式 RD（预期会把事件研究洗成零），以及 SBA 灾贷门槛 bunching。阿片那张的医生开药 IV 也可以审。
 
+## 已有卡片（RFS 38(6), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-investor-memory.md` | 自选投资的记忆美化 | 实验 |
+| `2025-rfs-memory-moves-markets.md` | 重叠披露的联想记忆 | 事件 |
+| `2025-rfs-predictability-experiment.md` | 信号有用才听信念 | 实验 |
+| `2025-rfs-earnings-extrapolation.md` | 季初外推与市场可预测 | 时间序列 |
+| `2025-rfs-option-ipca.md` | 期权异象的 IPCA | 因子 |
+| `2025-rfs-short-term-debt-governance.md` | 短债锁住大股东 | 理论 |
+
+对你最有用、值得下一步 `identification-audit` 的：Charles 的 Pattern firm 日历重叠。两篇记忆并排读。Guo 的「有新闻月」切开无条件自相关，是讲故事用的，不是准实验。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
