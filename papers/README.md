@@ -121,6 +121,29 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：沃尔克规则 VC DID、意大利连锁董事 DID、瑞典私有化 stacked DID。减税横财三重差也值得看「不对称奖罚」怎么写。
 
+## 已有卡片（JF 80(5), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-superstar-housing-returns.md` | 超级城市住房收益 | 测度 |
+| `2025-jf-arbitrage-capital-mmf.md` | MMF 改革与套利资本 | IV |
+| `2025-jf-investor-factors.md` | 投资者因子 | 资产定价 |
+| `2025-jf-forest-cross-sections.md` | 用树做股票截面 | 方法 |
+| `2025-jf-competitive-executive-pay.md` | 竞争性高管薪酬 | 理论 |
+| `2025-jf-executive-finance-education-rct.md` | 高管金融课 | RCT |
+| `2025-jf-baby-booms-housing.md` | 婴儿潮与房价 | 人口预测 |
+| `2025-jf-classified-boards-evolution.md` | 分类董事会三十年 | 治理史 |
+| `2025-jf-persuading-investors-video.md` | 路演视频说服 | 相关+实验 |
+| `2025-jf-saving-cause-borrowing.md` | 储蓄会不会逼出借贷 | 田野实验 |
+| `2025-jf-otc-nonstandardized-assets.md` | 非标准化 OTC | 理论 |
+| `2025-jf-tdf-retirement-portfolios.md` | 默认 TDF 与组合 | DID |
+| `2025-jf-actual-retail-price.md` | 真实零售成交价 | 同步下单 |
+| `2025-jf-segmented-arbitrage.md` | 分割的套利 | 描述 |
+
+对你最有用、值得下一步 `identification-audit` 的：莫桑比克高管金融课 RCT、墨西哥储蓄短信实验、MMF 改革 Bartik IV、默认 TDF 的同雇主前后比较、同步下单测零售价。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
