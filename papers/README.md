@@ -262,6 +262,22 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：Charles 的 Pattern firm 日历重叠。两篇记忆并排读。Guo 的「有新闻月」切开无条件自相关，是讲故事用的，不是准实验。
 
+## 已有卡片（RFS 38(7), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-token-platform-coordination.md` | 代币解开平台协调 | 理论 |
+| `2025-rfs-pow-pos-security.md` | PoW 对 PoS 安全 | 理论 |
+| `2025-rfs-insurer-information-competition.md` | 知情保险公司装傻 | 理论 |
+| `2025-rfs-insurance-hedging-competition.md` | 衍生品优先与寿险竞争 | DID |
+| `2025-rfs-imperfect-hedging-costs.md` | 交易成本与套保波动 | 理论 |
+| `2025-rfs-steel-futures-competition.md` | 钢材期货进现货竞争 | DID |
+| `2025-rfs-uncertainty-incentive-contracts.md` | 不确定与部门股权激励 | 理论 |
+
+对你最有用、值得下一步 `identification-audit` 的：寿险 IRMA 711 错时 DID（作者自己写了从未处理对照和现代估计量），以及钢材期货两个开通日。两张都是套保成本下降接到产品市场价格。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
