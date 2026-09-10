@@ -293,6 +293,22 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：PE 污染的 BLM / DrillCo，以及专利选举的企业×技术 DID。两篇创新并排读。BTD 主 hazard 系数前 14 页没有。社交连接不要写成因果。
 
+## 已有卡片（RFS 38(10), 2025）
+
+同样只根据上传 PDF 前约 14 页。页码从 2845 起，这 7 篇连到 3148。**3149 页之后若还有，未上传。**
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-quant-demand-elasticity.md` | 量化需求弹性 | 测度 |
+| `2025-rfs-bond-etf-baskets.md` | 债券 ETF 主动篮子 | IV |
+| `2025-rfs-persistent-flows-factors.md` | 持续资金流预报因子 | 预测 |
+| `2025-rfs-etf-tax-efficiency.md` | ETF 税递延 | DID |
+| `2025-rfs-dex-lp-commons.md` | DEX 的 LP 公地 | 理论 |
+| `2025-rfs-dominate-historical-average.md` | 打赢历史均值 | 预报 |
+| `2025-rfs-weak-id-long-memory.md` | 长记忆弱识别 | 计量 |
+
+对你最有用、值得下一步 `identification-audit` 的：债券 ETF 的月末再平衡 IV，以及 2012 年资本利得税的高净值 DID。两张 ETF 并排读。篮子流动性和 ETF 税的点估计前 14 页没有。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
