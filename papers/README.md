@@ -167,6 +167,22 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：撤回 IPO 对照的银行上市 DID、支付系统网络攻击 DID、授信提取的 Khwaja–Mian、CEO 行业困境 DID。反收购寿命那一段按错时标准审。
 
+## 已有卡片（RFS 38(1), 2025）
+
+同样只根据上传 PDF 前约 14 页。这批 DOI 前缀是 `hhae`，期刊是 *Review of Financial Studies*，不是卫生经济学。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-fx-hedging-channel.md` | 汇率套保渠道 | 模型+事实 |
+| `2025-rfs-fxd-hedging-exports.md` | 银行 FXD 供给与出口 | DID |
+| `2025-rfs-pension-discount-curve.md` | 养老金贴现曲线与需求弹性 | IV |
+| `2025-rfs-duration-corporate-bonds.md` | 公司债久期调整 | 测度 |
+| `2025-rfs-oligopoly-investment-returns.md` | 寡头合谋与投资收益 | 理论 |
+| `2025-rfs-dynamic-market-making.md` | 动态做市与双 U 形 | 理论 |
+| `2025-rfs-brand-premium.md` | 品牌溢价 | 测度 |
+
+对你最有用、值得下一步 `identification-audit` 的：韩国 FXD 资本监管 DID、荷兰 UFR 贴现曲线改革当需求 IV。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
