@@ -231,6 +231,22 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：欧洲 IPO 完成/撤回 + 询价窗 30 天行情 IV。和 JF 银行上市那张对照。
 
+## 已有卡片（RFS 38(5), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-opioid-firm-investment.md` | 阿片与企业投资 | IV |
+| `2025-rfs-build-or-buy-hc.md` | 人力资本远就买 | IV |
+| `2025-rfs-infrastructure-expropriation.md` | 侵占阴影下的基建融资 | 理论 |
+| `2025-rfs-shadow-cost-collateral.md` | 抵押的影子成本 | bunching |
+| `2025-rfs-loan-cross-subsidization.md` | 危机贷款交叉补贴 | 事件 |
+| `2025-rfs-margin-credit-china.md` | 融资融券与股价 | RD |
+| `2025-rfs-hca-qe-lending.md` | 历史成本会计挡住 QE | DID |
+
+对你最有用、值得下一步 `identification-audit` 的：中国融资标的公式 RD（预期会把事件研究洗成零），以及 SBA 灾贷门槛 bunching。阿片那张的医生开药 IV 也可以审。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
