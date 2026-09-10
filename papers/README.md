@@ -340,6 +340,27 @@ YYYY-venue-slug.md
 
 对你最有用的是复现那张：BHL 的 1.54% 靠前瞻盈余。短腿文本和 Π-CAPM 并排读。被动巨头的点估计、期权 U 形系数前 14 页没有。复现卡不当发现。
 
+## 已有卡片（JFE 163, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 163 卷的一部分：文章编号 103953–103958、103966–103968、103969–103971。**103959–103965 仍缺**（未上传）。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-robustness-dynamic-sentiment.md` | Cressie–Read 动态情绪 | 理论 |
+| `2025-jfe-green-taxonomy.md` | 绿洗与分类法 | 理论 |
+| `2025-jfe-moral-preferences-investors.md` | 投资者道德偏好 | 实验 |
+| `2025-jfe-gig-labor-uber.md` | Uber 与家庭安全网 | DID |
+| `2025-jfe-it-lender-competition.md` | IT 与贷款人竞争 | 理论 |
+| `2025-jfe-cll-house-prices.md` | 合规贷上限与房价 | DID |
+| `2025-jfe-lifo-entrepreneurship.md` | LIFO 与创业 | DID |
+| `2025-jfe-information-sharing.md` | 谁愿意分享信息 | 理论 |
+| `2025-jfe-bank-holiday-1933.md` | 1933 银行假日污名 | 历史 |
+| `2025-jfe-arbitrage-recovery.md` | 无套利 recovery | 测度 |
+| `2025-jfe-aspirational-utility.md` | 志向效用与偏度 | 实验 |
+| `2025-jfe-ceo-turnover-director-reputation.md` | 换 CEO 与董事扣票 | DID |
+
+对你最有用、值得下一步 `identification-audit` 的：合规贷上限×80% LTV 的房价 DID，Uber 错时进城+车龄三差，瑞典 LIFO 人数门槛。道德偏好实验和分类法理论并排读。银行假日、recovery、志向实验的点估计前 14 页不全。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
