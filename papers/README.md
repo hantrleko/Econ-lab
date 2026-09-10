@@ -79,6 +79,27 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：卖厂 DID、月供 IV、贷款官排班 IV、高管天气 IV。
 
+## 已有卡片（JF 80(3), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-sunk-costs-mergers.md` | 并购沉没成本 | IV / 准实验 |
+| `2025-jf-credit-cycles-crises.md` | 危机信用周期 | 宏观预测 |
+| `2025-jf-collusion-brokered-markets.md` | 中介合谋 | 理论 |
+| `2025-jf-banks-low-rates.md` | 低利率与银行信贷 | 理论+事实 |
+| `2025-jf-intrahousehold-disagreement.md` | 夫妻宏观分歧 | 预注册实验 |
+| `2025-jf-excess-capacity-marginal-q.md` | 闲置产能与 q | 测度 |
+| `2025-jf-social-security-wealth-inequality.md` | 社保与财富份额 | 测度 |
+| `2025-jf-racial-bias-mortgage-aus.md` | 房贷拒绝与色盲算法 | 分解 |
+| `2025-jf-covenants-collateral.md` | 契约与抵押 | 理论 |
+| `2025-jf-auctions-vs-negotiations.md` | 拍卖还是谈判 | 理论 |
+| `2025-jf-overdraft-payday.md` | 透支排序与发薪贷 | DID |
+| `2025-jf-investor-syndicates-communication.md` | 辛迪加沟通 | 理论 |
+
+对你最有用、值得下一步 `identification-audit` 的：沉没成本准实验、透支诉讼 DID、夫妻预期实验。房贷拒绝分解请和 80(2) 贷款官 IV 对照着读。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
