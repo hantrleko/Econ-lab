@@ -55,6 +55,30 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：催收 IV、PE 接近出价、关厅 DID、透支实验。
 
+## 已有卡片（JF 80(2), 2025）
+
+同样只根据上传 PDF 前约 14 页。系数对得上摘要/引言才写入。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-repo-financial-crisis.md` | 危机里的回购 | 描述性 |
+| `2025-jf-disappearing-index-effect.md` | 消失的指数效应 | 事件研究 |
+| `2025-jf-greenwashing-pollutive-plants.md` | 卖污染工厂 | DID |
+| `2025-jf-work-more-pay-mortgage.md` | 月供涨了就加班 | IV |
+| `2025-jf-pricing-poseidon.md` | 飓风不确定性 | DID |
+| `2025-jf-simplicity-and-risk.md` | 复杂度与风险溢价 | 预注册实验 |
+| `2025-jf-crisis-interventions-insolvency.md` | 破产干预 | 理论 |
+| `2025-jf-designing-stress-scenarios.md` | 压力测试情景 | 理论 |
+| `2025-jf-regulatory-fragmentation.md` | 监管碎片化 | 文本 |
+| `2025-jf-worker-runs.md` | 工人挤兑 | 理论 |
+| `2025-jf-allocation-sri-capital.md` | ESG 资本配置 | 理论 |
+| `2025-jf-wealth-insurance-choices.md` | 财富与寿险 | 行政面板 |
+| `2025-jf-feedback-systematic-risk.md` | 价格反馈 | 理论 |
+| `2025-jf-minority-representation-mortgage.md` | 少数族裔贷款官 | IV |
+| `2025-jf-hidden-effort-problem.md` | 高管隐藏努力 | IV |
+
+对你最有用、值得下一步 `identification-audit` 的：卖厂 DID、月供 IV、贷款官排班 IV、高管天气 IV。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
