@@ -295,7 +295,7 @@ YYYY-venue-slug.md
 
 ## 已有卡片（RFS 38(10), 2025）
 
-同样只根据上传 PDF 前约 14 页。页码从 2845 起，这 7 篇连到 3148。**3149 页之后若还有，未上传。**
+同样只根据上传 PDF 前约 14 页。页码从 2845 连到 3148。
 
 | 文件 | 短题 | 方法 |
 |---|---|---|
@@ -308,6 +308,22 @@ YYYY-venue-slug.md
 | `2025-rfs-weak-id-long-memory.md` | 长记忆弱识别 | 计量 |
 
 对你最有用、值得下一步 `identification-audit` 的：债券 ETF 的月末再平衡 IV，以及 2012 年资本利得税的高净值 DID。两张 ETF 并排读。篮子流动性和 ETF 税的点估计前 14 页没有。
+
+## 已有卡片（RFS 38(11), 2025）
+
+同样只根据上传 PDF 前约 14 页。页码从 3149 连到 3459。**3460 页之后若还有，未上传。**
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-fsb-advertising-race.md` | 自由民银行广告 | DID |
+| `2025-rfs-gender-investment-gap.md` | 性别投资差距 | 结构 |
+| `2025-rfs-advice-repeat-demand.md` | 建议赚钱再来 | 风险 |
+| `2025-rfs-mortgage-broker-selection.md` | 按揭经纪选择 | 结构 |
+| `2025-rfs-pretrial-detention-insolvency.md` | 审前羁押与破产 | IV |
+| `2025-rfs-fsb-depositor-flight.md` | 自由民银行挤兑 | 历史 |
+| `2025-rfs-small-banks-small-firms.md` | 小银行与小企业 | IV |
+
+对你最有用、值得下一步 `identification-audit` 的：马里兰专员宽松度 IV，以及小企业 Bartik。两张自由民银行并排读。性别差距的分年龄百分点前 14 页没有。
 
 ## 不要放
 
