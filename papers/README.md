@@ -278,6 +278,21 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：寿险 IRMA 711 错时 DID（作者自己写了从未处理对照和现代估计量），以及钢材期货两个开通日。两张都是套保成本下降接到产品市场价格。
 
+## 已有卡片（RFS 38(9), 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 38(9) 的一部分：页码从 2517 起。**2602–2651 仍缺一篇**（未上传）。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-pe-pollution-liability.md` | PE 与环境责任 | DID |
+| `2025-rfs-pe-fund-alpha.md` | 单基金 PE 的 α | 测度 |
+| `2025-rfs-competition-innovation-btd.md` | BTD 与项目层倒 U | DID |
+| `2025-rfs-political-sentiment-patents.md` | 选举与发明人专利 | DID |
+| `2025-rfs-social-connectedness-lending.md` | 社交连接与放贷 | 相关 |
+| `2025-rfs-bank-bail-ins.md` | Bail-in 最优负债 | 理论 |
+
+对你最有用、值得下一步 `identification-audit` 的：PE 污染的 BLM / DrillCo，以及专利选举的企业×技术 DID。两篇创新并排读。BTD 主 hazard 系数前 14 页没有。社交连接不要写成因果。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
