@@ -183,6 +183,22 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：韩国 FXD 资本监管 DID、荷兰 UFR 贴现曲线改革当需求 IV。
 
+## 已有卡片（RFS 38(2), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-bond-fund-treasury-liquidity.md` | 债基流动性管理与国债脆弱 | DID |
+| `2025-rfs-deconstruct-yield-curve.md` | 收益率曲线自助法 | 计量 |
+| `2025-rfs-gold-investment-value.md` | 黄金的投资价值 | 无套利 |
+| `2025-rfs-war-disaster-premium.md` | 战争话语与市场溢价 | 文本定价 |
+| `2025-rfs-loan-spreads-activity.md` | 贷款利差预报实体 | 预测 |
+| `2025-rfs-house-prices-rents.md` | 房价与租金去均值 | 测度 |
+| `2025-rfs-household-financial-distress.md` | 家庭财务困境与冲击 | 结构 |
+
+对你最有用、值得下一步 `identification-audit` 的：2017 年 SEC 流动性规则下的债基–国债 DID。战争话语这篇和 JF 80(6) 截面那篇是姊妹篇。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
