@@ -216,6 +216,21 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：碎股开通的高价/低价股 DID。两篇缺失数据并排读。导论不当发现引用。
 
+## 已有卡片（RFS 38(8), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-near-rational-ha-models.md` | 异质主体近理性验证 | 计算 |
+| `2025-rfs-sovereign-debt-holders.md` | 谁持有主权债 | 需求系统 |
+| `2025-rfs-esg-modigliani-miller.md` | ESG-MM | 理论 |
+| `2025-rfs-intermediation-exchange-rates.md` | 中介与汇率 | 理论 |
+| `2025-rfs-higher-order-beliefs.md` | 高阶信念投机 | 调查+模型 |
+| `2025-rfs-ipo-profitability-europe.md` | 欧洲上市与盈利 | IV |
+
+对你最有用、值得下一步 `identification-audit` 的：欧洲 IPO 完成/撤回 + 询价窗 30 天行情 IV。和 JF 银行上市那张对照。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
