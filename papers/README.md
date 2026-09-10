@@ -100,6 +100,27 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：沉没成本准实验、透支诉讼 DID、夫妻预期实验。房贷拒绝分解请和 80(2) 贷款官 IV 对照着读。
 
+## 已有卡片（JF 80(4), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-proxy-advisor-controversy.md` | 代理顾问制造争议 | 理论 |
+| `2025-jf-ceo-pay-tax-windfalls.md` | 减税横财与 CEO 薪酬 | 三重差分 |
+| `2025-jf-order-by-order-auctions.md` | 零售单逐笔拍卖 | 理论 |
+| `2025-jf-vc-startup-agglomeration.md` | VC 与创业扎堆 | DID |
+| `2025-jf-us-lucky-survivor.md` | 美股幸存偏差 | 贝叶斯测度 |
+| `2025-jf-dynamic-banking-deposits.md` | 存款的动态价值 | 理论 |
+| `2025-jf-women-hospital-ceos.md` | 医院女 CEO | 描述+匹配 |
+| `2025-jf-regulating-otc.md` | 监管 OTC | 理论 |
+| `2025-jf-privatization-worker-costs.md` | 私有化的工人成本 | stacked DID |
+| `2025-jf-euro-term-structure.md` | 异质货币联盟曲线 | 校准 |
+| `2025-jf-interlocking-directorates-banks.md` | 银行连锁董事 | DID |
+| `2025-jf-value-of-bank-lending.md` | 银行放贷的价值 | 测度 |
+
+对你最有用、值得下一步 `identification-audit` 的：沃尔克规则 VC DID、意大利连锁董事 DID、瑞典私有化 stacked DID。减税横财三重差也值得看「不对称奖罚」怎么写。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
