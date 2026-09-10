@@ -199,6 +199,23 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：2017 年 SEC 流动性规则下的债基–国债 DID。战争话语这篇和 JF 80(6) 截面那篇是姊妹篇。
 
+## 已有卡片（RFS 38(3), 2025，大数据专刊）
+
+同样只根据上传 PDF 前约 14 页。`hhad074` 是这一辑里提前发表的一篇。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-big-data-next-chapter.md` | 专刊导论 | 目录 |
+| `2025-rfs-odd-lot-quotes.md` | NBBO 内的零股报价 | 测度 |
+| `2025-rfs-news-sdf-high-frequency.md` | 高频 SDF 与新闻 | 文本定价 |
+| `2025-rfs-missing-data-asset-pricing.md` | 定价面板缺失（GMM） | 方法 |
+| `2025-rfs-missing-financial-data.md` | 财务特征系统缺失 | 插补 |
+| `2025-rfs-news-social-networks.md` | 社交中心度与盈余反应 | 相关 |
+| `2025-rfs-valuing-financial-data.md` | 金融数据估值 | 充分统计量 |
+| `2025-rfs-fractional-trading.md` | 碎股交易 | DID |
+
+对你最有用、值得下一步 `identification-audit` 的：碎股开通的高价/低价股 DID。两篇缺失数据并排读。导论不当发现引用。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
