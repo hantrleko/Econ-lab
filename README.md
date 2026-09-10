@@ -35,6 +35,7 @@ Agent 先读根目录 `AGENTS.md`，再按任务加载 `.cursor/skills/` 里的�
 | `drafts/` | 进行中的 tex / md |
 | `memos/` | 识别与设计备忘（决策以这里为准） |
 | `templates/` | 空模板，复制后用 |
+| `references/` | 上游路由 + RD/DID/IV 各一页。先读这里，再决定要不要打开别人的仓库 |
 
 每个目录有自己的 `README.md`，打开即知该放什么。
 
@@ -65,6 +66,7 @@ Agent 先读根目录 `AGENTS.md`，再按任务加载 `.cursor/skills/` 里的�
 - 需要外部核引工具时只用可选网页核验，不把付费 API 当依赖
 - 复现说明里不要编造数据下载链接
 
-## 上游吸收（未整仓复制）
+## 上游怎么用（不整仓复制）
 
-结构与闸门意识来自 econ-paper-studio、econ-research-os、clo-author、Sant'Anna 的 workflow 笔记，以及 awesome-econ-ai-stuff 的 skill 分层。本仓只保留短规则 + 四个 skill + 模板。
+别人的仓库是词典，不是第二套系统。何时打开、只偷哪一刀：见 `references/UPSTREAM.md`。  
+RD / DID / IV 的决策树在 `references/methods/`。识别上拿不准就先问你，再写代码。

@@ -6,7 +6,7 @@
 
 | 路径 | 用途 |
 |---|---|
-| `notes/methods/` | RD / DID / IV / 事件研究 / GVC 调节等手法备忘 |
+| `notes/methods/` | 自己的脏备忘。收束过的纪律在 `references/methods/`，不要两处各写一套 |
 | `notes/pdfs/` | 本机 PDF。默认 gitignore，不要 push |
 | `notes/ideas/` | 尚未写成 design memo 的想法 |
 

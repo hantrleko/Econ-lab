@@ -17,6 +17,8 @@ description: 模拟 SSCI Q1/Q2 审稿人，专打 identification、机制、over
 
 不要扮演用户已投稿那几篇的真实审稿人，除非用户把该稿当训练材料并点名。
 
+本 skill **只写报告**，不改用户的 `code/`、`drafts/`、表图。识别类意见先对照 `references/methods/` 里对应的一页纸。
+
 ## 只打这四类（每类至少一条，否则写「材料不够，无法打」）
 
 1. **Identification**：假设是否支持文中因果句

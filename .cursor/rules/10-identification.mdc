@@ -5,7 +5,7 @@ alwaysApply: true
 
 # 识别（短）
 
-先写 estimand 和设计，再写回归。细节清单走 `identification-audit` / `robustness-checklist`。
+先写 estimand 和设计，再写回归。细节走 `identification-audit` / `robustness-checklist`，以及 `references/methods/` 里 RD、DID、IV 各一页。观察单元、处理定义、聚类、错时估计量未定：停下来问。
 
 | 方法 | 核心假设 | 最危险威胁 | 最低必须有 |
 |---|---|---|---|
