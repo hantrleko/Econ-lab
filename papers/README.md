@@ -33,6 +33,28 @@ YYYY-venue-slug.md
 - 可攻击点
 - 可复用设计（以后自己能偷什么）
 
+## 已有卡片（JF 80(1), 2025）
+
+只根据上传 PDF 前约 14 页做成。系数能对上引言/摘要才写入，表号对不上的标了 UNVERIFIED。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-personal-communication-loan-repayments.md` | 催收电话 | IV |
+| `2025-jf-equilibrium-data-mining.md` | 数据挖矿 | 理论 |
+| `2025-jf-pe-failed-bank-resolution.md` | PE 接盘破产银行 | 接近出价准随机 |
+| `2025-jf-scope-scale-concentration.md` | 文本范围 | IV / 文本 |
+| `2025-jf-floor-trading.md` | 关交易大厅 | DID |
+| `2025-jf-carbon-returns.md` | 碳收益滞后 | 组合排序 |
+| `2025-jf-sms-overdraft-alerts.md` | 透支短信 | 田野实验 |
+| `2025-jf-uniswap-amm.md` | Uniswap | 理论+链上 |
+| `2025-jf-intermediary-leverage-shocks.md` | 杠杆供需冲击 | 符号限制 |
+| `2025-jf-dynamic-competition-mortgages.md` | 按揭收割定价 | 结构 |
+| `2025-jf-global-credit-spread-puzzle.md` | 全球信用利差之谜 | 结构定价 |
+| `2025-jf-bank-funding-libor.md` | 授信与 LIBOR | 理论+监管数据 |
+| `2025-jf-test-assets-weak-factors.md` | 弱因子与测试资产 | 方法 |
+
+对你最有用、值得下一步 `identification-audit` 的：催收 IV、PE 接近出价、关厅 DID、透支实验。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
