@@ -144,6 +144,29 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：莫桑比克高管金融课 RCT、墨西哥储蓄短信实验、MMF 改革 Bartik IV、默认 TDF 的同雇主前后比较、同步下单测零售价。
 
+## 已有卡片（JF 80(6), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-cyberattack-payments.md` | 支付系统网络攻击 | DID |
+| `2025-jf-schumpeter-political-connections.md` | 政治关联与大企业更替 | 长期描述 |
+| `2025-jf-war-discourse-returns.md` | 战争话语因子 | 文本定价 |
+| `2025-jf-credit-line-channel.md` | 授信挤出期限贷款 | KM + 模型 |
+| `2025-jf-privacy-team-incentives.md` | 私下合同与团队层级 | 理论 |
+| `2025-jf-ceo-stress-aging.md` | CEO 压力、衰老与死亡 | DID |
+| `2025-jf-esg-news-cash-flows.md` | ESG 新闻与现金流 | 预测修订 |
+| `2025-jf-green-window-dressing.md` | 绿色窗饰 | 披露窗 |
+| `2025-jf-rrp-tbill-intermediation.md` | RRP 与短券中介 | 供给需求 |
+| `2025-jf-anomalies-short-sale-costs.md` | 借券费与异常 | 测度 |
+| `2025-jf-bank-ipo-risk.md` | 银行上市与冒险 | DID + IV |
+| `2025-jf-plantation-mbs-reputation.md` | 种植园 MBS 与声誉 | 历史 |
+| `2025-jf-long-horizon-fx-expectations.md` | 两年期汇率预期 | 调查预测 |
+| `2025-jf-value-without-employment.md` | 有市值少雇人 | 宏观模型 |
+
+对你最有用、值得下一步 `identification-audit` 的：撤回 IPO 对照的银行上市 DID、支付系统网络攻击 DID、授信提取的 Khwaja–Mian、CEO 行业困境 DID。反收购寿命那一段按错时标准审。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
