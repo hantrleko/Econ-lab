@@ -1,0 +1,15 @@
+---
+description: Stata / Python 可复现规范：路径、seed、日志、不覆盖 raw。
+alwaysApply: true
+globs: code/**/*.{do,ado,py,ipynb}
+---
+
+# 代码
+
+- 不覆盖、不就地改 `data/raw/`。输出只去 `data/clean/`、`tables/`、`figures/` 或日志。
+- 路径相对仓库根；在脚本头写清工作目录。不要写死他人机器上的绝对路径。
+- 设 seed。Stata：`version`、`set seed`、`log using`，结束 `log close`。Python：入口脚本里固定 `numpy` / 随机种子，记录包版本。
+- 表图由脚本生成。禁止把手工改过的 Excel 当作终表。
+- 观察单元键去重后再 merge；merge 后核对行数，写进日志。
+- 清洗与估计分开。主估计脚本读 clean 数据，不从 raw 现场长管道到回归。
+- 不要提交密钥、`.dta`、大 CSV。需要示例数据时用明确标注的 toy 文件。

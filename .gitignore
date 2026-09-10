@@ -1,0 +1,59 @@
+# Secrets and local env
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Stata / statistical artifacts
+*.dta
+*.smcl
+*.ster
+*.gph
+*.log
+*.lst
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+
+# Data: keep folders, not payloads
+data/raw/*
+!data/raw/.gitkeep
+data/clean/*
+!data/clean/.gitkeep
+
+# Large / binary research dumps (keep local)
+*.zip
+*.7z
+*.rar
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.sas7bdat
+*.pdf
+!templates/**/*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
