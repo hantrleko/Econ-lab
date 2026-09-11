@@ -361,6 +361,24 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：合规贷上限×80% LTV 的房价 DID，Uber 错时进城+车龄三差，瑞典 LIFO 人数门槛。道德偏好实验和分类法理论并排读。银行假日、recovery、志向实验的点估计前 14 页不全。
 
+## 已有卡片（JFE 164, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 164 卷的一部分：文章编号 103972–103974、103984–103987、103989、103992。**103975–103983、103988、103990–103991 仍缺**（未上传）。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-impact-of-impact-investing.md` | 撤资改不了资本成本 | 校准 |
+| `2025-jfe-mortgage-rate-lock.md` | 房贷利率锁与搬家 | IV |
+| `2025-jfe-eighteenth-century-insider.md` | 18 世纪内幕交易 | 历史 |
+| `2025-jfe-esg-beliefs-portfolios.md` | ESG 信念与持仓 | 调查 |
+| `2025-jfe-fofa-advice-inattention.md` | FOFA 披露与自动脱落 | DID |
+| `2025-jfe-extrapolative-beliefs-pv.md` | 价格里的外推信念 | 结构 |
+| `2025-jfe-biodiversity-finance.md` | 生物多样性融资 | 描述 |
+| `2025-jfe-sofr-discount.md` | SOFR 浮息折价 | 发行人–月 |
+| `2025-jfe-jaq-job-mismatch.md` | 岗位匹配 JAQ | 测度 |
+
+对你最有用、值得下一步 `identification-audit` 的：房贷利率锁（无房贷对照 + 发起时市场利率 IV），以及 FOFA 顾问周年错时送达。SOFR 同发行人同月并排读定价。撤资校准和 ESG 调查并排，不当因果。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
