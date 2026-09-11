@@ -65,4 +65,4 @@ status: "carded-from-first14pp"
 
 ## 训练价值
 
-对照 `did.md` 和 `rd.md`。优先审成交价分组和意图处理。值得跑 `identification-audit`。
+对照 `did.md` 和 `rd.md`。已跑审计：`memos/2026-09-11-jfe-cll-house-prices-id-audit.md`。最危险的是成交价分组、带宽内选择、全国年调只有约 8 次独立变异。
