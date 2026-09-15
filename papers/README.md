@@ -398,7 +398,7 @@ YYYY-venue-slug.md
 
 ## 已有卡片（JFE 166, 2025）
 
-同样只根据上传 PDF 前约 14 页。这是 166 卷的一部分：文章编号 104003–104009、104022。**104010–104021 仍缺**。
+同样只根据上传 PDF 前约 14 页。这是 166 卷的一部分：文章编号 104003–104009、104022。**104011–104021 仍缺**。104010 实际印在 167 卷。
 
 | 文件 | 短题 | 方法 |
 |---|---|---|
@@ -412,6 +412,22 @@ YYYY-venue-slug.md
 | `2025-jfe-bank-qualified-muni.md` | 银行合格市政债 | bunching / DID / IV |
 
 对你最有用、值得下一步 `identification-audit` 的：雇主计划反事实准入 ITT、TCJA 海外现金强度 DID、合格债 bunching 加就业乘数、储贷暴露与退休更替。理论、文本网络和期权默契不当因果。
+
+## 已有卡片（JFE 167, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 167 卷的一部分：文章编号 104010、104023–104028。**104011–104021 仍缺**（未见印在本卷）。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-earnings-afterhours-jumps.md` | 盘后业绩跳跃 | 高频检验 |
+| `2025-jfe-expected-ivol.md` | 预期特质波动 | 预报 |
+| `2025-jfe-ptree-efficient-frontier.md` | 面板树测试资产 | ML |
+| `2025-jfe-intermediary-no-commitment.md` | 中介无承诺融资 | 理论 |
+| `2025-jfe-dlt-money-governance.md` | 分布式账本与钱 | 理论 |
+| `2025-jfe-bond-stock-betas-nk.md` | 债股 beta 与供给 | 结构 |
+| `2025-jfe-fx-dealer-constraints.md` | 外汇交易商约束 | 微观/SVAR |
+
+对你最有用、值得并排读的：盘后跳跃当效率必要条件，以及 IVOL 之谜是否只是鞅预报误设。P-Tree 样本内夏普、短债承诺、账本治理和 NK 债股 beta 不当准实验。外汇价量非线性可以看供给弹性怎么写，但 DCM 不是工具。
 
 ## 不要放
 
