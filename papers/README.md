@@ -33,6 +33,554 @@ YYYY-venue-slug.md
 - 可攻击点
 - 可复用设计（以后自己能偷什么）
 
+## 已有卡片（JF 80(1), 2025）
+
+只根据上传 PDF 前约 14 页做成。系数能对上引言/摘要才写入，表号对不上的标了 UNVERIFIED。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-personal-communication-loan-repayments.md` | 催收电话 | IV |
+| `2025-jf-equilibrium-data-mining.md` | 数据挖矿 | 理论 |
+| `2025-jf-pe-failed-bank-resolution.md` | PE 接盘破产银行 | 接近出价准随机 |
+| `2025-jf-scope-scale-concentration.md` | 文本范围 | IV / 文本 |
+| `2025-jf-floor-trading.md` | 关交易大厅 | DID |
+| `2025-jf-carbon-returns.md` | 碳收益滞后 | 组合排序 |
+| `2025-jf-sms-overdraft-alerts.md` | 透支短信 | 田野实验 |
+| `2025-jf-uniswap-amm.md` | Uniswap | 理论+链上 |
+| `2025-jf-intermediary-leverage-shocks.md` | 杠杆供需冲击 | 符号限制 |
+| `2025-jf-dynamic-competition-mortgages.md` | 按揭收割定价 | 结构 |
+| `2025-jf-global-credit-spread-puzzle.md` | 全球信用利差之谜 | 结构定价 |
+| `2025-jf-bank-funding-libor.md` | 授信与 LIBOR | 理论+监管数据 |
+| `2025-jf-test-assets-weak-factors.md` | 弱因子与测试资产 | 方法 |
+
+对你最有用、值得下一步 `identification-audit` 的：催收 IV、PE 接近出价、关厅 DID、透支实验。
+
+## 已有卡片（JF 80(2), 2025）
+
+同样只根据上传 PDF 前约 14 页。系数对得上摘要/引言才写入。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-repo-financial-crisis.md` | 危机里的回购 | 描述性 |
+| `2025-jf-disappearing-index-effect.md` | 消失的指数效应 | 事件研究 |
+| `2025-jf-greenwashing-pollutive-plants.md` | 卖污染工厂 | DID |
+| `2025-jf-work-more-pay-mortgage.md` | 月供涨了就加班 | IV |
+| `2025-jf-pricing-poseidon.md` | 飓风不确定性 | DID |
+| `2025-jf-simplicity-and-risk.md` | 复杂度与风险溢价 | 预注册实验 |
+| `2025-jf-crisis-interventions-insolvency.md` | 破产干预 | 理论 |
+| `2025-jf-designing-stress-scenarios.md` | 压力测试情景 | 理论 |
+| `2025-jf-regulatory-fragmentation.md` | 监管碎片化 | 文本 |
+| `2025-jf-worker-runs.md` | 工人挤兑 | 理论 |
+| `2025-jf-allocation-sri-capital.md` | ESG 资本配置 | 理论 |
+| `2025-jf-wealth-insurance-choices.md` | 财富与寿险 | 行政面板 |
+| `2025-jf-feedback-systematic-risk.md` | 价格反馈 | 理论 |
+| `2025-jf-minority-representation-mortgage.md` | 少数族裔贷款官 | IV |
+| `2025-jf-hidden-effort-problem.md` | 高管隐藏努力 | IV |
+
+对你最有用、值得下一步 `identification-audit` 的：卖厂 DID、月供 IV、贷款官排班 IV、高管天气 IV。
+
+## 已有卡片（JF 80(3), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-sunk-costs-mergers.md` | 并购沉没成本 | IV / 准实验 |
+| `2025-jf-credit-cycles-crises.md` | 危机信用周期 | 宏观预测 |
+| `2025-jf-collusion-brokered-markets.md` | 中介合谋 | 理论 |
+| `2025-jf-banks-low-rates.md` | 低利率与银行信贷 | 理论+事实 |
+| `2025-jf-intrahousehold-disagreement.md` | 夫妻宏观分歧 | 预注册实验 |
+| `2025-jf-excess-capacity-marginal-q.md` | 闲置产能与 q | 测度 |
+| `2025-jf-social-security-wealth-inequality.md` | 社保与财富份额 | 测度 |
+| `2025-jf-racial-bias-mortgage-aus.md` | 房贷拒绝与色盲算法 | 分解 |
+| `2025-jf-covenants-collateral.md` | 契约与抵押 | 理论 |
+| `2025-jf-auctions-vs-negotiations.md` | 拍卖还是谈判 | 理论 |
+| `2025-jf-overdraft-payday.md` | 透支排序与发薪贷 | DID |
+| `2025-jf-investor-syndicates-communication.md` | 辛迪加沟通 | 理论 |
+
+对你最有用、值得下一步 `identification-audit` 的：沉没成本准实验、透支诉讼 DID、夫妻预期实验。房贷拒绝分解请和 80(2) 贷款官 IV 对照着读。
+
+## 已有卡片（JF 80(4), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-proxy-advisor-controversy.md` | 代理顾问制造争议 | 理论 |
+| `2025-jf-ceo-pay-tax-windfalls.md` | 减税横财与 CEO 薪酬 | 三重差分 |
+| `2025-jf-order-by-order-auctions.md` | 零售单逐笔拍卖 | 理论 |
+| `2025-jf-vc-startup-agglomeration.md` | VC 与创业扎堆 | DID |
+| `2025-jf-us-lucky-survivor.md` | 美股幸存偏差 | 贝叶斯测度 |
+| `2025-jf-dynamic-banking-deposits.md` | 存款的动态价值 | 理论 |
+| `2025-jf-women-hospital-ceos.md` | 医院女 CEO | 描述+匹配 |
+| `2025-jf-regulating-otc.md` | 监管 OTC | 理论 |
+| `2025-jf-privatization-worker-costs.md` | 私有化的工人成本 | stacked DID |
+| `2025-jf-euro-term-structure.md` | 异质货币联盟曲线 | 校准 |
+| `2025-jf-interlocking-directorates-banks.md` | 银行连锁董事 | DID |
+| `2025-jf-value-of-bank-lending.md` | 银行放贷的价值 | 测度 |
+
+对你最有用、值得下一步 `identification-audit` 的：沃尔克规则 VC DID、意大利连锁董事 DID、瑞典私有化 stacked DID。减税横财三重差也值得看「不对称奖罚」怎么写。
+
+## 已有卡片（JF 80(5), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-superstar-housing-returns.md` | 超级城市住房收益 | 测度 |
+| `2025-jf-arbitrage-capital-mmf.md` | MMF 改革与套利资本 | IV |
+| `2025-jf-investor-factors.md` | 投资者因子 | 资产定价 |
+| `2025-jf-forest-cross-sections.md` | 用树做股票截面 | 方法 |
+| `2025-jf-competitive-executive-pay.md` | 竞争性高管薪酬 | 理论 |
+| `2025-jf-executive-finance-education-rct.md` | 高管金融课 | RCT |
+| `2025-jf-baby-booms-housing.md` | 婴儿潮与房价 | 人口预测 |
+| `2025-jf-classified-boards-evolution.md` | 分类董事会三十年 | 治理史 |
+| `2025-jf-persuading-investors-video.md` | 路演视频说服 | 相关+实验 |
+| `2025-jf-saving-cause-borrowing.md` | 储蓄会不会逼出借贷 | 田野实验 |
+| `2025-jf-otc-nonstandardized-assets.md` | 非标准化 OTC | 理论 |
+| `2025-jf-tdf-retirement-portfolios.md` | 默认 TDF 与组合 | DID |
+| `2025-jf-actual-retail-price.md` | 真实零售成交价 | 同步下单 |
+| `2025-jf-segmented-arbitrage.md` | 分割的套利 | 描述 |
+
+对你最有用、值得下一步 `identification-audit` 的：莫桑比克高管金融课 RCT、墨西哥储蓄短信实验、MMF 改革 Bartik IV、默认 TDF 的同雇主前后比较、同步下单测零售价。
+
+## 已有卡片（JF 80(6), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jf-cyberattack-payments.md` | 支付系统网络攻击 | DID |
+| `2025-jf-schumpeter-political-connections.md` | 政治关联与大企业更替 | 长期描述 |
+| `2025-jf-war-discourse-returns.md` | 战争话语因子 | 文本定价 |
+| `2025-jf-credit-line-channel.md` | 授信挤出期限贷款 | KM + 模型 |
+| `2025-jf-privacy-team-incentives.md` | 私下合同与团队层级 | 理论 |
+| `2025-jf-ceo-stress-aging.md` | CEO 压力、衰老与死亡 | DID |
+| `2025-jf-esg-news-cash-flows.md` | ESG 新闻与现金流 | 预测修订 |
+| `2025-jf-green-window-dressing.md` | 绿色窗饰 | 披露窗 |
+| `2025-jf-rrp-tbill-intermediation.md` | RRP 与短券中介 | 供给需求 |
+| `2025-jf-anomalies-short-sale-costs.md` | 借券费与异常 | 测度 |
+| `2025-jf-bank-ipo-risk.md` | 银行上市与冒险 | DID + IV |
+| `2025-jf-plantation-mbs-reputation.md` | 种植园 MBS 与声誉 | 历史 |
+| `2025-jf-long-horizon-fx-expectations.md` | 两年期汇率预期 | 调查预测 |
+| `2025-jf-value-without-employment.md` | 有市值少雇人 | 宏观模型 |
+
+对你最有用、值得下一步 `identification-audit` 的：撤回 IPO 对照的银行上市 DID、支付系统网络攻击 DID、授信提取的 Khwaja–Mian、CEO 行业困境 DID。反收购寿命那一段按错时标准审。
+
+## 已有卡片（RFS 38(1), 2025）
+
+同样只根据上传 PDF 前约 14 页。这批 DOI 前缀是 `hhae`，期刊是 *Review of Financial Studies*，不是卫生经济学。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-fx-hedging-channel.md` | 汇率套保渠道 | 模型+事实 |
+| `2025-rfs-fxd-hedging-exports.md` | 银行 FXD 供给与出口 | DID |
+| `2025-rfs-pension-discount-curve.md` | 养老金贴现曲线与需求弹性 | IV |
+| `2025-rfs-duration-corporate-bonds.md` | 公司债久期调整 | 测度 |
+| `2025-rfs-oligopoly-investment-returns.md` | 寡头合谋与投资收益 | 理论 |
+| `2025-rfs-dynamic-market-making.md` | 动态做市与双 U 形 | 理论 |
+| `2025-rfs-brand-premium.md` | 品牌溢价 | 测度 |
+
+对你最有用、值得下一步 `identification-audit` 的：韩国 FXD 资本监管 DID、荷兰 UFR 贴现曲线改革当需求 IV。
+
+## 已有卡片（RFS 38(2), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-bond-fund-treasury-liquidity.md` | 债基流动性管理与国债脆弱 | DID |
+| `2025-rfs-deconstruct-yield-curve.md` | 收益率曲线自助法 | 计量 |
+| `2025-rfs-gold-investment-value.md` | 黄金的投资价值 | 无套利 |
+| `2025-rfs-war-disaster-premium.md` | 战争话语与市场溢价 | 文本定价 |
+| `2025-rfs-loan-spreads-activity.md` | 贷款利差预报实体 | 预测 |
+| `2025-rfs-house-prices-rents.md` | 房价与租金去均值 | 测度 |
+| `2025-rfs-household-financial-distress.md` | 家庭财务困境与冲击 | 结构 |
+
+对你最有用、值得下一步 `identification-audit` 的：2017 年 SEC 流动性规则下的债基–国债 DID。战争话语这篇和 JF 80(6) 截面那篇是姊妹篇。
+
+## 已有卡片（RFS 38(3), 2025，大数据专刊）
+
+同样只根据上传 PDF 前约 14 页。`hhad074` 是这一辑里提前发表的一篇。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-big-data-next-chapter.md` | 专刊导论 | 目录 |
+| `2025-rfs-odd-lot-quotes.md` | NBBO 内的零股报价 | 测度 |
+| `2025-rfs-news-sdf-high-frequency.md` | 高频 SDF 与新闻 | 文本定价 |
+| `2025-rfs-missing-data-asset-pricing.md` | 定价面板缺失（GMM） | 方法 |
+| `2025-rfs-missing-financial-data.md` | 财务特征系统缺失 | 插补 |
+| `2025-rfs-news-social-networks.md` | 社交中心度与盈余反应 | 相关 |
+| `2025-rfs-valuing-financial-data.md` | 金融数据估值 | 充分统计量 |
+| `2025-rfs-fractional-trading.md` | 碎股交易 | DID |
+
+对你最有用、值得下一步 `identification-audit` 的：碎股开通的高价/低价股 DID。两篇缺失数据并排读。导论不当发现引用。
+
+## 已有卡片（RFS 38(8), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-near-rational-ha-models.md` | 异质主体近理性验证 | 计算 |
+| `2025-rfs-sovereign-debt-holders.md` | 谁持有主权债 | 需求系统 |
+| `2025-rfs-esg-modigliani-miller.md` | ESG-MM | 理论 |
+| `2025-rfs-intermediation-exchange-rates.md` | 中介与汇率 | 理论 |
+| `2025-rfs-higher-order-beliefs.md` | 高阶信念投机 | 调查+模型 |
+| `2025-rfs-ipo-profitability-europe.md` | 欧洲上市与盈利 | IV |
+
+对你最有用、值得下一步 `identification-audit` 的：欧洲 IPO 完成/撤回 + 询价窗 30 天行情 IV。和 JF 银行上市那张对照。
+
+## 已有卡片（RFS 38(5), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-opioid-firm-investment.md` | 阿片与企业投资 | IV |
+| `2025-rfs-build-or-buy-hc.md` | 人力资本远就买 | IV |
+| `2025-rfs-infrastructure-expropriation.md` | 侵占阴影下的基建融资 | 理论 |
+| `2025-rfs-shadow-cost-collateral.md` | 抵押的影子成本 | bunching |
+| `2025-rfs-loan-cross-subsidization.md` | 危机贷款交叉补贴 | 事件 |
+| `2025-rfs-margin-credit-china.md` | 融资融券与股价 | RD |
+| `2025-rfs-hca-qe-lending.md` | 历史成本会计挡住 QE | DID |
+
+对你最有用、值得下一步 `identification-audit` 的：中国融资标的公式 RD（预期会把事件研究洗成零），以及 SBA 灾贷门槛 bunching。阿片那张的医生开药 IV 也可以审。
+
+## 已有卡片（RFS 38(6), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-investor-memory.md` | 自选投资的记忆美化 | 实验 |
+| `2025-rfs-memory-moves-markets.md` | 重叠披露的联想记忆 | 事件 |
+| `2025-rfs-predictability-experiment.md` | 信号有用才听信念 | 实验 |
+| `2025-rfs-earnings-extrapolation.md` | 季初外推与市场可预测 | 时间序列 |
+| `2025-rfs-option-ipca.md` | 期权异象的 IPCA | 因子 |
+| `2025-rfs-short-term-debt-governance.md` | 短债锁住大股东 | 理论 |
+
+对你最有用、值得下一步 `identification-audit` 的：Charles 的 Pattern firm 日历重叠。两篇记忆并排读。Guo 的「有新闻月」切开无条件自相关，是讲故事用的，不是准实验。
+
+## 已有卡片（RFS 38(7), 2025）
+
+同样只根据上传 PDF 前约 14 页。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-token-platform-coordination.md` | 代币解开平台协调 | 理论 |
+| `2025-rfs-pow-pos-security.md` | PoW 对 PoS 安全 | 理论 |
+| `2025-rfs-insurer-information-competition.md` | 知情保险公司装傻 | 理论 |
+| `2025-rfs-insurance-hedging-competition.md` | 衍生品优先与寿险竞争 | DID |
+| `2025-rfs-imperfect-hedging-costs.md` | 交易成本与套保波动 | 理论 |
+| `2025-rfs-steel-futures-competition.md` | 钢材期货进现货竞争 | DID |
+| `2025-rfs-uncertainty-incentive-contracts.md` | 不确定与部门股权激励 | 理论 |
+
+对你最有用、值得下一步 `identification-audit` 的：寿险 IRMA 711 错时 DID（作者自己写了从未处理对照和现代估计量），以及钢材期货两个开通日。两张都是套保成本下降接到产品市场价格。
+
+## 已有卡片（RFS 38(9), 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 38(9) 的一部分：页码从 2517 起。**2602–2651 仍缺一篇**（未上传）。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-pe-pollution-liability.md` | PE 与环境责任 | DID |
+| `2025-rfs-pe-fund-alpha.md` | 单基金 PE 的 α | 测度 |
+| `2025-rfs-competition-innovation-btd.md` | BTD 与项目层倒 U | DID |
+| `2025-rfs-political-sentiment-patents.md` | 选举与发明人专利 | DID |
+| `2025-rfs-social-connectedness-lending.md` | 社交连接与放贷 | 相关 |
+| `2025-rfs-bank-bail-ins.md` | Bail-in 最优负债 | 理论 |
+
+对你最有用、值得下一步 `identification-audit` 的：PE 污染的 BLM / DrillCo，以及专利选举的企业×技术 DID。两篇创新并排读。BTD 主 hazard 系数前 14 页没有。社交连接不要写成因果。
+
+## 已有卡片（RFS 38(10), 2025）
+
+同样只根据上传 PDF 前约 14 页。页码从 2845 连到 3148。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-quant-demand-elasticity.md` | 量化需求弹性 | 测度 |
+| `2025-rfs-bond-etf-baskets.md` | 债券 ETF 主动篮子 | IV |
+| `2025-rfs-persistent-flows-factors.md` | 持续资金流预报因子 | 预测 |
+| `2025-rfs-etf-tax-efficiency.md` | ETF 税递延 | DID |
+| `2025-rfs-dex-lp-commons.md` | DEX 的 LP 公地 | 理论 |
+| `2025-rfs-dominate-historical-average.md` | 打赢历史均值 | 预报 |
+| `2025-rfs-weak-id-long-memory.md` | 长记忆弱识别 | 计量 |
+
+对你最有用、值得下一步 `identification-audit` 的：债券 ETF 的月末再平衡 IV，以及 2012 年资本利得税的高净值 DID。两张 ETF 并排读。篮子流动性和 ETF 税的点估计前 14 页没有。
+
+## 已有卡片（RFS 38(11), 2025）
+
+同样只根据上传 PDF 前约 14 页。页码从 3149 连到 3459。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-fsb-advertising-race.md` | 自由民银行广告 | DID |
+| `2025-rfs-gender-investment-gap.md` | 性别投资差距 | 结构 |
+| `2025-rfs-advice-repeat-demand.md` | 建议赚钱再来 | 风险 |
+| `2025-rfs-mortgage-broker-selection.md` | 按揭经纪选择 | 结构 |
+| `2025-rfs-pretrial-detention-insolvency.md` | 审前羁押与破产 | IV |
+| `2025-rfs-fsb-depositor-flight.md` | 自由民银行挤兑 | 历史 |
+| `2025-rfs-small-banks-small-firms.md` | 小银行与小企业 | IV |
+
+对你最有用、值得下一步 `identification-audit` 的：马里兰专员宽松度 IV，以及小企业 Bartik。两张自由民银行并排读。性别差距的分年龄百分点前 14 页没有。
+
+## 已有卡片（RFS 38(12), 2025）
+
+同样只根据上传 PDF 前约 14 页。页码从 3461 起。**3542–3579、3673–3728 仍缺**（未上传）。这 6 篇收到 3790。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-rfs-passive-mega-firms.md` | 被动投资与巨头 | 理论 |
+| `2025-rfs-pi-capm.md` | 概率加权 CAPM | 理论 |
+| `2025-rfs-sentiment-factor-betas.md` | 情绪与因子 beta | 预测 |
+| `2025-rfs-anticipatory-mhf-trading.md` | 抢跑困境巨头基金 | 安慰剂 |
+| `2025-rfs-short-leg-lottery-text.md` | 短腿文本与彩票 | 文本 |
+| `2025-rfs-man-vs-ml-lookahead.md` | 机器学习前瞻偏差 | 复现 |
+
+对你最有用的是复现那张：BHL 的 1.54% 靠前瞻盈余。短腿文本和 Π-CAPM 并排读。被动巨头的点估计、期权 U 形系数前 14 页没有。复现卡不当发现。
+
+## 已有卡片（JFE 163, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 163 卷的一部分：文章编号 103953–103958、103966–103968、103969–103971。**103959–103965 仍缺**（未上传）。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-robustness-dynamic-sentiment.md` | Cressie–Read 动态情绪 | 理论 |
+| `2025-jfe-green-taxonomy.md` | 绿洗与分类法 | 理论 |
+| `2025-jfe-moral-preferences-investors.md` | 投资者道德偏好 | 实验 |
+| `2025-jfe-gig-labor-uber.md` | Uber 与家庭安全网 | DID |
+| `2025-jfe-it-lender-competition.md` | IT 与贷款人竞争 | 理论 |
+| `2025-jfe-cll-house-prices.md` | 合规贷上限与房价 | DID |
+| `2025-jfe-lifo-entrepreneurship.md` | LIFO 与创业 | DID |
+| `2025-jfe-information-sharing.md` | 谁愿意分享信息 | 理论 |
+| `2025-jfe-bank-holiday-1933.md` | 1933 银行假日污名 | 历史 |
+| `2025-jfe-arbitrage-recovery.md` | 无套利 recovery | 测度 |
+| `2025-jfe-aspirational-utility.md` | 志向效用与偏度 | 实验 |
+| `2025-jfe-ceo-turnover-director-reputation.md` | 换 CEO 与董事扣票 | DID |
+
+对你最有用、值得下一步 `identification-audit` 的：合规贷上限×80% LTV 的房价 DID，Uber 错时进城+车龄三差，瑞典 LIFO 人数门槛。道德偏好实验和分类法理论并排读。银行假日、recovery、志向实验的点估计前 14 页不全。
+
+## 已有卡片（JFE 164, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 164 卷的一部分：文章编号 103972–103974、103984–103987、103989、103992。**103976–103983 仍缺**（未上传）。103975、103988、103990、103991 实际发在 165 卷。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-impact-of-impact-investing.md` | 撤资改不了资本成本 | 校准 |
+| `2025-jfe-mortgage-rate-lock.md` | 房贷利率锁与搬家 | IV |
+| `2025-jfe-eighteenth-century-insider.md` | 18 世纪内幕交易 | 历史 |
+| `2025-jfe-esg-beliefs-portfolios.md` | ESG 信念与持仓 | 调查 |
+| `2025-jfe-fofa-advice-inattention.md` | FOFA 披露与自动脱落 | DID |
+| `2025-jfe-extrapolative-beliefs-pv.md` | 价格里的外推信念 | 结构 |
+| `2025-jfe-biodiversity-finance.md` | 生物多样性融资 | 描述 |
+| `2025-jfe-sofr-discount.md` | SOFR 浮息折价 | 发行人–月 |
+| `2025-jfe-jaq-job-mismatch.md` | 岗位匹配 JAQ | 测度 |
+
+对你最有用、值得下一步 `identification-audit` 的：房贷利率锁（无房贷对照 + 发起时市场利率 IV），以及 FOFA 顾问周年错时送达。SOFR 同发行人同月并排读定价。撤资校准和 ESG 调查并排，不当因果。
+
+## 已有卡片（JFE 165, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 165 卷的一部分：文章编号 103975、103988、103990–103991、103993–103996。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-self-declared-benchmarks.md` | 基金自报基准 | 描述 |
+| `2025-jfe-fed-info-equity-term.md` | FOMC 与短期股利条 | 事件 |
+| `2025-jfe-q-risk-rents-growth.md` | 行业 Q 极化 | 结构 |
+| `2025-jfe-esg-market-power.md` | ESG 与市场势力 | 理论 |
+| `2025-jfe-yield-drifts-issuance.md` | 发行叠在新闻前 | 事件 |
+| `2025-jfe-beta-anomaly-volatility.md` | BAB 的波动之谜 | 条件定价 |
+| `2025-jfe-disagreement-debt-equity.md` | 分歧下的债和股 | 理论 |
+| `2025-jfe-optimal-illiquidity.md` | 最优不流动性 | 理论 |
+
+对你最有用、值得下一步 `identification-audit` 的：FOMC 30 分钟短期股利条，以及英国国债「发行 × 新闻前两天」。基金错配基准和 BAB 条件检验不当因果。
+
+## 已有卡片（JFE 166, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 166 卷的一部分：文章编号 104003–104009、104022。**104011–104016、104019–104021 仍缺**。104010 印在 167 卷；104017 印在 169 卷；104018 印在 168 卷。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-financial-inclusion-us.md` | 全美退休账户包容 | IV / DID |
+| `2025-jfe-qe-futures-basis.md` | QE 现券–期货基差 | 事件 |
+| `2025-jfe-behavioral-crises-policy.md` | 行为金融危机政策 | 理论 |
+| `2025-jfe-tcja-foreign-cash.md` | TCJA 解锁海外现金 | DID |
+| `2025-jfe-global-business-networks.md` | 全球商业网络 | 文本 |
+| `2025-jfe-strategic-arbitrage-options.md` | 分段市场战略套利 | 理论+微观 |
+| `2025-jfe-bank-ceo-sl-crisis.md` | 银行 CEO 与储贷危机 | DID |
+| `2025-jfe-bank-qualified-muni.md` | 银行合格市政债 | bunching / DID / IV |
+
+对你最有用、值得下一步 `identification-audit` 的：雇主计划反事实准入 ITT、TCJA 海外现金强度 DID、合格债 bunching 加就业乘数、储贷暴露与退休更替。理论、文本网络和期权默契不当因果。
+
+## 已有卡片（JFE 167, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 167 卷的一部分：文章编号 104010、104023–104028。**104011–104016、104019–104021 仍缺**。104017 印在 169 卷；104018 印在 168 卷。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-earnings-afterhours-jumps.md` | 盘后业绩跳跃 | 高频检验 |
+| `2025-jfe-expected-ivol.md` | 预期特质波动 | 预报 |
+| `2025-jfe-ptree-efficient-frontier.md` | 面板树测试资产 | ML |
+| `2025-jfe-intermediary-no-commitment.md` | 中介无承诺融资 | 理论 |
+| `2025-jfe-dlt-money-governance.md` | 分布式账本与钱 | 理论 |
+| `2025-jfe-bond-stock-betas-nk.md` | 债股 beta 与供给 | 结构 |
+| `2025-jfe-fx-dealer-constraints.md` | 外汇交易商约束 | 微观/SVAR |
+
+对你最有用、值得并排读的：盘后跳跃当效率必要条件，以及 IVOL 之谜是否只是鞅预报误设。P-Tree 样本内夏普、短债承诺、账本治理和 NK 债股 beta 不当准实验。外汇价量非线性可以看供给弹性怎么写，但 DCM 不是工具。
+
+## 已有卡片（JFE 168, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 168 卷的一部分：文章编号 104018、104037–104040、104051–104052、104055、104057–104058。**104030–104036、104041–104050 等仍缺**。104017、104029 印在 169 卷。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-libor-arr-benchmark-noise.md` | LIBOR/ARR 基准噪声 | 状态空间 |
+| `2025-jfe-ijc-fiscal-expectations.md` | 坏失业与财政预期 | 事件/文本 |
+| `2025-jfe-mew-racial-disparities.md` | 提取住房权益的种族差距 | 分解 |
+| `2025-jfe-investor-demand-misallocation.md` | 投资者需求与错配 | 结构 |
+| `2025-jfe-fintech-entry-welfare.md` | 金融科技进入与福利 | 理论 |
+| `2025-jfe-retail-wholesaler-execution.md` | 散户批发执行质量 | 描述/DID |
+| `2025-jfe-dollar-demand-system.md` | 美元强弱分解 | 需求系统 |
+| `2025-jfe-cbdc-digitization-race.md` | 法币数字化竞赛 | 理论 |
+| `2025-jfe-household-reaching-for-yield.md` | 家庭 reach for yield | 相关 |
+| `2025-jfe-ecb-tiering-reserves.md` | 欧央行分层准备金 | DID |
+
+对你最有用、值得下一步 `identification-audit` 的：欧央行分层准备金（未用额度强度 + 企业–时间 FE）。Jane Street 进入批发是弱 DID；家庭利率、IJC 财政预期和 HMDA 残差不当准实验。理论、美元分解和需求 SMM 不当因果。
+
+## 已有卡片（JFE 169, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 169 卷的一部分：文章编号 103950、104017、104029、104053–104054、104056、104059–104060、104062–104063、104078。104061 印在 170 卷。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-open-banking.md` | 开放银行 | DID |
+| `2025-jfe-hf-treasury-2020.md` | 对冲基金与 2020 美债 | 事件 |
+| `2025-jfe-bayh-dole-vc.md` | Bayh-Dole 与风投 | DID |
+| `2025-jfe-data-sales-dilution.md` | 数据卖断与稀释 | 理论+市场 |
+| `2025-jfe-house-value-uncertainty.md` | 房价不确定与按揭 | IV / 结构 |
+| `2025-jfe-uk-mortgage-screening.md` | 英国按揭菜单筛选 | 结构 |
+| `2025-jfe-pe-return-dominance.md` | 截面市盈率收益主导 | 分解 |
+| `2025-jfe-capital-reg-discretion.md` | 资本监管规则与相机 | 理论 |
+| `2025-jfe-wells-fargo-fintech-trust.md` | 银行信任与金融科技 | DID |
+| `2025-jfe-vc-foia-lp-privacy.md` | FOIA 与 VC 的 LP | DID |
+| `2025-jfe-global-vol-institution-flows.md` | 全球波动与机构流 | 面板 |
+
+对你最有用、值得下一步 `identification-audit` 的：Wells Fargo 信任 DID、FOIA 后顶级 VC 踢公共 LP、英国开放银行 2500 万英镑门槛。Bayh-Dole 是县内行业强度，和 1979–80 年养老金入 VC 捆在一起。跨国开放银行是错时，前 14 页未见现代估计量。房价离散 IV、按揭结构、对冲基金 2020 和机构流不当准实验。
+
+## 已有卡片（JFE 170, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 170 卷的一部分：文章编号 104061、104075、104077、104079–104085。**104064–104070、104073–104074、104076 等仍缺**。104071–104072、104086 印在 171 卷。104078 印在 169 卷。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-bond-block-receivers.md` | 公司债大宗承接方 | 微观结构 |
+| `2025-jfe-chile-pension-cip.md` | 智利养老金流与 CIP | 事件 |
+| `2025-jfe-entrepreneur-coworker-spillovers.md` | 同事创业溢出 | 同伴 |
+| `2025-jfe-sme-covid-consumption.md` | 小企业营收与老板消费 | IV |
+| `2025-jfe-volcker-trading-risk.md` | 沃尔克与银行交易风险 | DID |
+| `2025-jfe-did-term-structure.md` | 有期限结构时的 DID | 方法 |
+| `2025-jfe-gse-intermediaries.md` | 两房中介 overlay | 结构 |
+| `2025-jfe-bank-lending-relationships.md` | 银行关系借贷 | 结构 |
+| `2025-jfe-qe-fallen-angels.md` | QE 与准堕落天使 | 强度 |
+| `2025-jfe-liquidity-picking-adr.md` | 基金流动性挑选 | 面板 |
+
+对你最有用、值得下一步 `identification-audit` 的：智利 FyF 养老金流（无信息、双向、传到 CIP），以及小企业营收→老板消费的行业–当地 2SLS。沃尔克错时汇报只有十几家银行，前 14 页未见现代估计量。QE 准堕落天使是全国宽松下的持仓强度，不是 QE 实验。期限结构 DID 是方法卡。同事溢出、大宗承接、流动性挑选和两套结构不当准实验。
+
+## 已有卡片（JFE 171, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 171 卷的一部分：文章编号 104071–104072、104086、104093、104095、104104、104106–104107、104110。104094、104096、104105、104108–104109、104112–104114 印在 172 卷。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-fintech-labor-disruption.md` | 金融科技与劳动需求 | 文本 |
+| `2025-jfe-fiscal-inflation-mortgages.md` | 财政通胀与按揭 | 量化 |
+| `2025-jfe-dark-pool-access.md` | 暗池准入限制 | DID |
+| `2025-jfe-bnpl-merchant.md` | 商家视角的 BNPL | RCT |
+| `2025-jfe-analyst-cf-from-prices.md` | 价格进入分析师预期 | IV |
+| `2025-jfe-stress-test-human-capital.md` | 压力测试与风控进人 | 错时 |
+| `2025-jfe-conditional-pricing-kernel.md` | 条件定价核 | 期权 |
+| `2025-jfe-pe-hospitals.md` | 医院私募股权 | DID |
+| `2025-jfe-bond-rating-comovement.md` | 债券评级联动 | 可预测 |
+
+对你最有用、值得下一步 `identification-audit` 的：BNPL 商家 RCT，以及澳洲暗池三次关停。分析师预期的 Russell/流 IV、医院 PE 的匹配 DID 和 CPOM 错时也可以打。压力测试是错时进人，前 14 页未见现代估计量。金融科技文本暴露、评级联动、定价核和财政–按揭模型不当准实验。
+
+## 已有卡片（JFE 172, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 172 卷的一部分：文章编号 104094、104096、104105、104108–104109、104112–104114、104129–104141、104143–104144、104146–104149、104151、104153、104155。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-durbin-debit.md` | Durbin 借记卡交换费 | DID |
+| `2025-jfe-inelastic-demand-decomp.md` | 为何模型需求弹性过高 | 分解 |
+| `2025-jfe-pigou-leverage.md` | 融资约束下的碳价 | 理论 |
+| `2025-jfe-paydex-returns.md` | 对供应商付款与收益 | 可预测 |
+| `2025-jfe-large-stock-diversification.md` | 分散阈值与大盘需求 | 可预测 |
+| `2025-jfe-fx-imbalance-network.md` | 贸易失衡网络与汇率 | 理论+排序 |
+| `2025-jfe-crowdfunding-intermediation.md` | 网上借贷的中介价值 | 结构 |
+| `2025-jfe-equity-duration.md` | 股权久期与可预测 | 分解 |
+| `2025-jfe-bank-coal-exit.md` | 银行煤炭退出 | 强度 |
+| `2025-jfe-vix-inflation-zlb.md` | VIX 与通胀相关 | 宏观 |
+| `2025-jfe-labor-event-risk.md` | 劳动尾部与股权溢价 | 校准 |
+| `2025-jfe-mev-private-pools.md` | 链上 MEV 与私人池 | 理论+链 |
+| `2025-jfe-choke-point-credit.md` | 掐点行动定点断贷 | DID |
+| `2025-jfe-pension-windfall-house-prices.md` | 州界养老金意外与房价 | 边界 / RD |
+| `2025-jfe-specialized-lender-pricing.md` | 专业贷款信息定价 | 理论+相关 |
+| `2025-jfe-ma-tech-inequality.md` | 并购、技术与不平等 | 匹配 DID |
+| `2025-jfe-covid-loan-guarantees.md` | 疫情担保贷替代 | KM |
+| `2025-jfe-ml-feature-engineering.md` | ML 特征工程 | 可预测 |
+| `2025-jfe-social-pref-investment.md` | 社会偏好与公司投资 | 理论 |
+| `2025-jfe-binary-vs-bull-spread.md` | 高估简单二元赌 | 占优 |
+| `2025-jfe-hh-debt-human-capital.md` | 家庭债务与人力资本 | 理论+IV |
+| `2025-jfe-firm-uncertainty-hh-spending.md` | 企业不确定与家庭支出 | 预测面板 |
+| `2025-jfe-retail-habitat.md` | 零售栖息地 | 可预测 |
+| `2025-jfe-stakes-investor-biases.md` | 赌注与投资者偏差 | 组内比较 |
+| `2025-jfe-polarization-purpose-profit.md` | 目的、极化与利润 | 理论 |
+| `2025-jfe-intraday-shorting-timing.md` | 空头何时交易 | 可预测 |
+| `2025-jfe-undiagnosed-dementia-credit.md` | 未诊断痴呆与信用 | 错时事件研究 |
+| `2025-jfe-endowment-ri.md` | 大学捐赠责任投资 | DID |
+| `2025-jfe-option-iv-borrow-fee.md` | 期权 IV 与借券费 | 可预测 |
+| `2025-jfe-stealthy-shorts.md` | 隐蔽空头供给 | 可预测 |
+
+对你最有用、值得下一步 `identification-audit` 的：未诊断痴呆信用（错时诊断 + 从未处理，前 14 页未见现代估计量；诊断前一年拖欠 +1.5 pp、信用分大约 −5.3 至 −7.3）和州界养老金意外（1 美元收益 → 边界房价大约 +2.13 美元）。掐点行动和煤炭退出仍值得并排。Durbin 是 100 亿美元门槛。疫情担保是同一企业内 28 欧分替代。并购技术是匹配错时，不当随机。家庭债务人力资本的住房 LTV 工具可单审。其余分解、理论、可预测和组内比较不当准实验。104142、104145、104150、104152、104154、104156–104158、104166、104169 印在 173 卷。
+
+## 已有卡片（JFE 173, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 173 卷的一部分：文章编号 104142、104145、104150、104152、104154、104156–104158、104166、104169。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-racial-housing-fha.md` | FHA 上限与种族住房 | bunching + DID |
+| `2025-jfe-finance-without-exotic-risk.md` | 无奇异风险的因子 | 预期 |
+| `2025-jfe-esg-lending-sll.md` | SLL 与漂绿 | 匹配 |
+| `2025-jfe-intl-govt-bond-umve.md` | 国际国债 UMVE | SDF |
+| `2025-jfe-mp-transmission-learning.md` | 学习货币传导 | 校准 |
+| `2025-jfe-gig-economy-entrepreneurship.md` | 零工与创业 | 错时 |
+| `2025-jfe-rwl-bargaining-resilience.md` | 工作权法与谈判韧性 | 错时 DID |
+| `2025-jfe-taking-sides-predictability.md` | 谁站在可预测一边 | 可预测 |
+| `2025-jfe-inflation-trading-rct.md` | 通胀信念与交易 | RCT |
+| `2025-jfe-have-ceos-changed.md` | CEO 人格变了吗 | 描述 |
+
+对你最有用、值得下一步 `identification-audit` 的：工作权法错时（Sun–Abraham 动态图已报；主表仍是 TWFE；长期债大约 −2 pp）和 2014 年 FHA 上限回撤（黑人新发放大约 −8%）。零工创业是县开通 × 个人零工，前 14 页未见现代估计量。通胀 RCT 设计干净，审外推即可。其余预期、匹配、SDF、校准和描述不当准实验。104168、104170、104171、104173、104182–104186 印在 174 卷。
+
+## 已有卡片（JFE 174, 2025）
+
+同样只根据上传 PDF 前约 14 页（`104171` 全文 13 页已抽完）。这是 174 卷的一部分：文章编号 104168、104170、104171、104173、104182–104186。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-covid-wfh-announcements.md` | 疫情居家办公公告 | 事件研究 |
+| `2025-jfe-advisor-regulatory-leakage.md` | 顾问监管泄漏 | 规则定义 DID |
+| `2025-jfe-data-welfare-credit.md` | 信用数据与福利 | DID + 足够统计 |
+| `2025-jfe-green-tilts.md` | 绿色组合倾斜 | 测度 |
+| `2025-jfe-boe-qe-dealer-auctions.md` | 英央行 QE 反向拍卖 | 结构 |
+| `2025-jfe-robots-firm-investment.md` | 机器人与企业投资 | 描述 + 弱 DID |
+| `2025-jfe-debt-currency-sales.md` | 销售地理与债务币种 | 相关 |
+| `2025-jfe-dealer-clientele-networks.md` | 客户分选与经销商网络 | 理论 |
+| `2025-jfe-regulatory-complexity.md` | 监管复杂度测度 | 测度 |
+
+对你最有用、值得下一步 `identification-audit` 的：顾问监管泄漏（2018–19 FINRA「坏经纪」提案；同公司同县对照；退出后 98% 仍是保险生产者）和破产标记删除的福利（制度时钟 DID + 价格数量足够统计；永不删除则效率大约 +$598k/年、再分配大约 $1900 万）。居家办公公告可审选择：封锁前 273/2549 家宣布，五日 CAR 3%–5%，事前特征已预测谁宣布。机器人是规模描述加行业/地区弱 DID（十年总就业大约 −0.3%），企业层采用后就业升作者写明不是因果。其余绿倾斜、债务币种、QE 拍卖结构、监管复杂度、客户–经销商网络不当准实验。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
