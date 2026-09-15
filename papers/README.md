@@ -542,7 +542,26 @@ YYYY-venue-slug.md
 | `2025-jfe-option-iv-borrow-fee.md` | 期权 IV 与借券费 | 可预测 |
 | `2025-jfe-stealthy-shorts.md` | 隐蔽空头供给 | 可预测 |
 
-对你最有用、值得下一步 `identification-audit` 的：未诊断痴呆信用（错时诊断 + 从未处理，前 14 页未见现代估计量；诊断前一年拖欠 +1.5 pp、信用分大约 −5.3 至 −7.3）和州界养老金意外（1 美元收益 → 边界房价大约 +2.13 美元）。掐点行动和煤炭退出仍值得并排。Durbin 是 100 亿美元门槛。疫情担保是同一企业内 28 欧分替代。并购技术是匹配错时，不当随机。家庭债务人力资本的住房 LTV 工具可单审。其余分解、理论、可预测和组内比较不当准实验。
+对你最有用、值得下一步 `identification-audit` 的：未诊断痴呆信用（错时诊断 + 从未处理，前 14 页未见现代估计量；诊断前一年拖欠 +1.5 pp、信用分大约 −5.3 至 −7.3）和州界养老金意外（1 美元收益 → 边界房价大约 +2.13 美元）。掐点行动和煤炭退出仍值得并排。Durbin 是 100 亿美元门槛。疫情担保是同一企业内 28 欧分替代。并购技术是匹配错时，不当随机。家庭债务人力资本的住房 LTV 工具可单审。其余分解、理论、可预测和组内比较不当准实验。104142、104145、104150、104152、104154、104156–104158、104166、104169 印在 173 卷。
+
+## 已有卡片（JFE 173, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 173 卷的一部分：文章编号 104142、104145、104150、104152、104154、104156–104158、104166、104169。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-racial-housing-fha.md` | FHA 上限与种族住房 | bunching + DID |
+| `2025-jfe-finance-without-exotic-risk.md` | 无奇异风险的因子 | 预期 |
+| `2025-jfe-esg-lending-sll.md` | SLL 与漂绿 | 匹配 |
+| `2025-jfe-intl-govt-bond-umve.md` | 国际国债 UMVE | SDF |
+| `2025-jfe-mp-transmission-learning.md` | 学习货币传导 | 校准 |
+| `2025-jfe-gig-economy-entrepreneurship.md` | 零工与创业 | 错时 |
+| `2025-jfe-rwl-bargaining-resilience.md` | 工作权法与谈判韧性 | 错时 DID |
+| `2025-jfe-taking-sides-predictability.md` | 谁站在可预测一边 | 可预测 |
+| `2025-jfe-inflation-trading-rct.md` | 通胀信念与交易 | RCT |
+| `2025-jfe-have-ceos-changed.md` | CEO 人格变了吗 | 描述 |
+
+对你最有用、值得下一步 `identification-audit` 的：工作权法错时（Sun–Abraham 动态图已报；主表仍是 TWFE；长期债大约 −2 pp）和 2014 年 FHA 上限回撤（黑人新发放大约 −8%）。零工创业是县开通 × 个人零工，前 14 页未见现代估计量。通胀 RCT 设计干净，审外推即可。其余预期、匹配、SDF、校准和描述不当准实验。
 
 ## 不要放
 
