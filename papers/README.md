@@ -507,7 +507,7 @@ YYYY-venue-slug.md
 
 ## 已有卡片（JFE 172, 2025）
 
-同样只根据上传 PDF 前约 14 页。这是 172 卷的一部分：文章编号 104094、104096、104105、104108–104109、104112–104114、104129–104133、104137、104151。
+同样只根据上传 PDF 前约 14 页。这是 172 卷的一部分：文章编号 104094、104096、104105、104108–104109、104112–104114、104129–104141、104143–104144、104146–104149、104151、104153、104155。
 
 | 文件 | 短题 | 方法 |
 |---|---|---|
@@ -524,10 +524,25 @@ YYYY-venue-slug.md
 | `2025-jfe-labor-event-risk.md` | 劳动尾部与股权溢价 | 校准 |
 | `2025-jfe-mev-private-pools.md` | 链上 MEV 与私人池 | 理论+链 |
 | `2025-jfe-choke-point-credit.md` | 掐点行动定点断贷 | DID |
+| `2025-jfe-pension-windfall-house-prices.md` | 州界养老金意外与房价 | 边界 / RD |
+| `2025-jfe-specialized-lender-pricing.md` | 专业贷款信息定价 | 理论+相关 |
+| `2025-jfe-ma-tech-inequality.md` | 并购、技术与不平等 | 匹配 DID |
 | `2025-jfe-covid-loan-guarantees.md` | 疫情担保贷替代 | KM |
+| `2025-jfe-ml-feature-engineering.md` | ML 特征工程 | 可预测 |
+| `2025-jfe-social-pref-investment.md` | 社会偏好与公司投资 | 理论 |
+| `2025-jfe-binary-vs-bull-spread.md` | 高估简单二元赌 | 占优 |
+| `2025-jfe-hh-debt-human-capital.md` | 家庭债务与人力资本 | 理论+IV |
+| `2025-jfe-firm-uncertainty-hh-spending.md` | 企业不确定与家庭支出 | 预测面板 |
+| `2025-jfe-retail-habitat.md` | 零售栖息地 | 可预测 |
+| `2025-jfe-stakes-investor-biases.md` | 赌注与投资者偏差 | 组内比较 |
+| `2025-jfe-polarization-purpose-profit.md` | 目的、极化与利润 | 理论 |
+| `2025-jfe-intraday-shorting-timing.md` | 空头何时交易 | 可预测 |
+| `2025-jfe-undiagnosed-dementia-credit.md` | 未诊断痴呆与信用 | 错时事件研究 |
 | `2025-jfe-endowment-ri.md` | 大学捐赠责任投资 | DID |
+| `2025-jfe-option-iv-borrow-fee.md` | 期权 IV 与借券费 | 可预测 |
+| `2025-jfe-stealthy-shorts.md` | 隐蔽空头供给 | 可预测 |
 
-对你最有用、值得下一步 `identification-audit` 的：掐点行动（stacked 错时 + 企业–时间 FE，中小企业被点名银行大约 −10%，但大多换得成）和银行煤炭退出（借款人–年 FE，暴露 1 SD 发债大约 −20%）。两张并排：都是定点少贷，替代结论相反。Durbin 是 100 亿美元门槛。疫情担保是同一企业内 28 欧分替代。捐赠基金责任投资是错时采纳，前 14 页未见现代估计量。其余分解、理论、可预测和结构不当准实验。CBC 夏普、劳动溢价数字前 14 页未核到。
+对你最有用、值得下一步 `identification-audit` 的：未诊断痴呆信用（错时诊断 + 从未处理，前 14 页未见现代估计量；诊断前一年拖欠 +1.5 pp、信用分大约 −5.3 至 −7.3）和州界养老金意外（1 美元收益 → 边界房价大约 +2.13 美元）。掐点行动和煤炭退出仍值得并排。Durbin 是 100 亿美元门槛。疫情担保是同一企业内 28 欧分替代。并购技术是匹配错时，不当随机。家庭债务人力资本的住房 LTV 工具可单审。其余分解、理论、可预测和组内比较不当准实验。
 
 ## 不要放
 
