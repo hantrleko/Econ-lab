@@ -396,6 +396,23 @@ YYYY-venue-slug.md
 
 对你最有用、值得下一步 `identification-audit` 的：FOMC 30 分钟短期股利条，以及英国国债「发行 × 新闻前两天」。基金错配基准和 BAB 条件检验不当因果。
 
+## 已有卡片（JFE 166, 2025）
+
+同样只根据上传 PDF 前约 14 页。这是 166 卷的一部分：文章编号 104003–104009、104022。**104010–104021 仍缺**。
+
+| 文件 | 短题 | 方法 |
+|---|---|---|
+| `2025-jfe-financial-inclusion-us.md` | 全美退休账户包容 | IV / DID |
+| `2025-jfe-qe-futures-basis.md` | QE 现券–期货基差 | 事件 |
+| `2025-jfe-behavioral-crises-policy.md` | 行为金融危机政策 | 理论 |
+| `2025-jfe-tcja-foreign-cash.md` | TCJA 解锁海外现金 | DID |
+| `2025-jfe-global-business-networks.md` | 全球商业网络 | 文本 |
+| `2025-jfe-strategic-arbitrage-options.md` | 分段市场战略套利 | 理论+微观 |
+| `2025-jfe-bank-ceo-sl-crisis.md` | 银行 CEO 与储贷危机 | DID |
+| `2025-jfe-bank-qualified-muni.md` | 银行合格市政债 | bunching / DID / IV |
+
+对你最有用、值得下一步 `identification-audit` 的：雇主计划反事实准入 ITT、TCJA 海外现金强度 DID、合格债 bunching 加就业乘数、储贷暴露与退休更替。理论、文本网络和期权默契不当因果。
+
 ## 不要放
 
 - PDF（放到本机 `notes/pdfs/`，默认不提交）
